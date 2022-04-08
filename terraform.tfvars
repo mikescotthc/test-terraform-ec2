@@ -1,4 +1,4 @@
 # AWS Settings
-aws_access_key = "AKIAXJADWKVF23WSZO5M"
-aws_secret_key = "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"
+aws_access_key = "AKIAxxxxxxxxx"
+aws_secret_key = "xxxxxxx"
 aws_region     = "eu-west-2"
